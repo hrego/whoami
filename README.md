@@ -1,5 +1,3 @@
-# Backend Challenges boilerplate - package.json
-
 API: Request Header Parser Microservice
 =========================
 
